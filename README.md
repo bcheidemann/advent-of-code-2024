@@ -1,4 +1,4 @@
-![CI](https://github.com/bcheidemann/advent-of-code-2024/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/bcheidemann/advent-of-code-2024/actions/workflows/ci.yml/badge.svg)](https://github.com/bcheidemann/advent-of-code-2024/actions/workflows/ci.yml)
 
 # Advent of Code (2024)
 
