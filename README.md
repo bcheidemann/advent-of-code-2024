@@ -1,3 +1,5 @@
+![CI](https://github.com/bcheidemann/advent-of-code-2024/actions/workflows/ci.yml/badge.svg)
+
 # Advent of Code (2024)
 
 ## Usage
